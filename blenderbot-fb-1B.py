@@ -2,9 +2,9 @@ from printy import inputy
 from Blender import LoadingBar, BlenderbotPipeline, MODELS
 
 # facebook
-
+# todo run
 loading_bar = LoadingBar()
-model = MODELS['B'][1]
+model = MODELS["B"][1]
 
 loading_bar.start(model)
 
