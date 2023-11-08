@@ -3,9 +3,7 @@ import itertools
 import time
 import sys
 from printy import inputy, printy
-
-
-from transform import BlenderbotPipeline
+from Blender import BlenderbotPipeline
 
 
 class LoadingBar:
