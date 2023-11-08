@@ -26,14 +26,14 @@ class BlenderbotPipeline:
         self.model = BlenderbotForConditionalGeneration.from_pretrained(model_name)
 
     def __call__(
-            self,
-            text,
-            max_length=200,
-            min_length=100,
-            length_penalty=1.5,
-            num_beams=5,
-            no_repeat_ngram_size=3,
-            early_stopping=True,
+        self,
+        text,
+        max_length=200,
+        min_length=100,
+        length_penalty=1.5,
+        num_beams=5,
+        no_repeat_ngram_size=3,
+        early_stopping=True,
     ):
         # Tokenize the text input
         inputs = self.tokenizer(text, return_tensors="pt")
@@ -89,7 +89,7 @@ class ManagedConversation:
 
         if len(self.history) > 3:
             load = LoadingBar()
-            load.start('Trimming')
+            load.start("Trimming")
             try:
                 self.trim()
             finally:

@@ -22,4 +22,14 @@ and Bear lived out adventures that would become legendary.
 Their illustrated stories aboard the great odyssey showcase not just the elegance of their time but the enduring bond 
 they shared. Jack's Yale connections and his Chicago roots played as much a part in his persona as his adventures and 
 wealth. His life, a rich tapestry of education, secret societies, and friendships, spanned until 1927, leaving behind 
-a legacy encapsulated in tales of camaraderie and Gatsby-esque escapades that continued to captivate and inspire."""
+a legacy encapsulated in tales of camaraderie and Gatsby-esque escapades that continued to captivate and inspire.
+
+
+
+/home/sohfix0/Documents/models/jack_ai_pcp/venv/bin/python /home/sohfix0/Documents/models/jack_ai_pcp/test.py
+facebook/blenderbot-1B-distill > from memory...
+ I would love to write a letter from my grandfather. He was a ship captain in the 1860s. He used to tell me stories about the ship he used to sail on. Do you know anything about the history of shipwrecks in the 1930s and 1940s? I'd love to know more about it.    Do you have a favorite ship that you like to write about?  I'd like to learn more about them.
+ That's a great idea! I'll have to try that. My favorite ship is the Royal Caribbean Cruise Line. It's the largest cruise liner in the world. I've been on it a few times and it's a lot of fun. What's your favorite ship you've sailed on? I've only been on a few, but I love them all!   What kind of ship would you write about if you had to write one?
+
+Process finished with exit code 0
+"""
