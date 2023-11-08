@@ -1,0 +1,10 @@
+from transformers import pipeline
+
+### TEXT GENERATION
+pipe = pipeline("text-generation", model="gpt2-medium")
+pipe = pipeline("text-generation", model="facebook/opt-125m")
+pipe = pipeline("text-generation", model="EleutherAI/gpt-neo-125m")
+
+### CONVERSATIONAL
+pipe = pipeline("conversational", model="facebook/blenderbot-400M-distill")
+pipe = pipeline("conversational", model="facebook/blenderbot-1B-distill")

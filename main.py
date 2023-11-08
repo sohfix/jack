@@ -1,16 +1,15 @@
-# This is a sample Python script.
+from transformers import pipeline
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Initialize the pipeline for text generation with the gpt2-medium model
+pipe = pipeline("text-generation", model="gpt2-medium")
 
+# Provide a prompt for text generation
+prompt = "The adventures of Jack and John were always filled with wonder."
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# Generate text using the pipeline
+generated_text = pipe(prompt, max_length=200, num_return_sequences=5)
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Print the generated text
+for output in generated_text:
+    print(output['generated_text'])
+    print(output)

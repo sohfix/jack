@@ -1,0 +1,56 @@
+/home/sohfix0/Documents/models/jack_ai_pcp/venv/bin/python /home/sohfix0/Documents/models/jack_ai_pcp/main.py 
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The adventures of Jack and John were always filled with wonder. Their adventures had always involved danger, mayhem, magic and the strange…and now, they might get even stranger!
+
+John: You guys have to believe me when I say that you guys will need to follow us like a man on fire!
+
+Jack:
+
+John, tell me, what will you and all the others do when they get back from their travels?
+
+Jack: Well we will need to keep this train in business by keeping everyone on board for as long as we can until it gets too crowded! John: This might sound silly, but do you all really remember that we used to be slaves?
+
+Jack:
+
+That's all right! I don't remember it much! So, all I will say is that we won't forget any of that. Then, we will be slaves to our new masters for…until…?
+
+That's kind of silly. It actually makes
+{'generated_text': "The adventures of Jack and John were always filled with wonder. Their adventures had always involved danger, mayhem, magic and the strange…and now, they might get even stranger!\n\nJohn: You guys have to believe me when I say that you guys will need to follow us like a man on fire!\n\nJack:\n\nJohn, tell me, what will you and all the others do when they get back from their travels?\n\nJack: Well we will need to keep this train in business by keeping everyone on board for as long as we can until it gets too crowded! John: This might sound silly, but do you all really remember that we used to be slaves?\n\nJack:\n\nThat's all right! I don't remember it much! So, all I will say is that we won't forget any of that. Then, we will be slaves to our new masters for…until…?\n\nThat's kind of silly. It actually makes"}
+The adventures of Jack and John were always filled with wonder. There were scenes, sequences that kept the audience on their toes, just bursting with tension. This new feature film continues to surprise audiences, as a good chunk of the story revolves around the dynamic duo.
+
+That's not all. The main characters are also very memorable! What many may not notice from looking at the trailers, but are going to find right away, is the impressive, deep voice acting talent, including two completely new characters by the end of it's run, both in real-time as well as the past.
+
+The script is a fun read, and one of the most entertaining parts of the film, as the script allows us to witness as much of different side plots occurring over the course of the film as possible – a feat that even the producers were quite proud of for the film. You can see them as "Jack's" story.
+
+However, it wasn't really about that. If this
+{'generated_text': 'The adventures of Jack and John were always filled with wonder. There were scenes, sequences that kept the audience on their toes, just bursting with tension. This new feature film continues to surprise audiences, as a good chunk of the story revolves around the dynamic duo.\n\nThat\'s not all. The main characters are also very memorable! What many may not notice from looking at the trailers, but are going to find right away, is the impressive, deep voice acting talent, including two completely new characters by the end of it\'s run, both in real-time as well as the past.\n\nThe script is a fun read, and one of the most entertaining parts of the film, as the script allows us to witness as much of different side plots occurring over the course of the film as possible – a feat that even the producers were quite proud of for the film. You can see them as "Jack\'s" story.\n\nHowever, it wasn\'t really about that. If this'}
+The adventures of Jack and John were always filled with wonder. I always felt this way about them," the writer later admitted.
+
+In September 1980, Jack, a struggling author of short story and novelettes, found himself in the wrong company again. Writer-producer Howard Chaykin had gone off on a rampage.
+
+Advertisement
+
+Chaykin demanded that Chateau Marmont be rented to him for the duration of the movie's five-year production. Jack's story, "The Night Of The Hunter," was written in the second person — Chaykin and his production company had hired a pseudonym. "That's the job of the storyteller," writes Chaykin.
+
+In October 1980 Chaykin fired Jack and promised his audience the fate of "The Night Of The Hunter." "All those who had read or heard the story with pleasure and enthusiasm could find the end well written, with a beautiful, poignant, complex conclusion that I
+{'generated_text': 'The adventures of Jack and John were always filled with wonder. I always felt this way about them," the writer later admitted.\n\nIn September 1980, Jack, a struggling author of short story and novelettes, found himself in the wrong company again. Writer-producer Howard Chaykin had gone off on a rampage.\n\nAdvertisement\n\nChaykin demanded that Chateau Marmont be rented to him for the duration of the movie\'s five-year production. Jack\'s story, "The Night Of The Hunter," was written in the second person — Chaykin and his production company had hired a pseudonym. "That\'s the job of the storyteller," writes Chaykin.\n\nIn October 1980 Chaykin fired Jack and promised his audience the fate of "The Night Of The Hunter." "All those who had read or heard the story with pleasure and enthusiasm could find the end well written, with a beautiful, poignant, complex conclusion that I'}
+The adventures of Jack and John were always filled with wonder. They did not have a favorite one. They had all kinds of wonderful adventures and encounters, and they found lots of great stories that they read together. So their favorite is probably one that they both remember, and maybe even shared the same story on that adventure. It's one where Jack and John just found themselves in a pretty special place…
+
+"I'm very fond of that one, actually," John told EW in an exclusive cover story for Entertainment Weekly's Summer 2016 issue.
+
+"I like adventure, but of course, there are so many more exciting things for us at Star Wars Expanded Universe conventions, where we have more great stories to share."
+
+He said they could be up for it, especially since Star Wars creator George Lucas has written other Star Wars stories in the previous two decades — many of which he wrote during his tenure on the book's cover.
+
+"George really likes adventure," John recalled
+{'generated_text': 'The adventures of Jack and John were always filled with wonder. They did not have a favorite one. They had all kinds of wonderful adventures and encounters, and they found lots of great stories that they read together. So their favorite is probably one that they both remember, and maybe even shared the same story on that adventure. It\'s one where Jack and John just found themselves in a pretty special place…\n\n"I\'m very fond of that one, actually," John told EW in an exclusive cover story for Entertainment Weekly\'s Summer 2016 issue.\n\n"I like adventure, but of course, there are so many more exciting things for us at Star Wars Expanded Universe conventions, where we have more great stories to share."\n\nHe said they could be up for it, especially since Star Wars creator George Lucas has written other Star Wars stories in the previous two decades — many of which he wrote during his tenure on the book\'s cover.\n\n"George really likes adventure," John recalled'}
+The adventures of Jack and John were always filled with wonder. But then, at a certain point, a certain thing happened and they got separated. They spent a year on opposite sides of the country, before a fateful trip brought them together again...
+
+They're now a couple, after a long and successful friendship. And despite not realizing it, they've finally bonded over a shared love of adventure. There's no easy way out at the moment, and they're all set to take on every challenge - even if it means taking on the world's toughest monsters.
+
+A New World is their fifth story, which was originally developed by the acclaimed story teams of Dave, Jon, Simon Coker and Nick Cammusci of Dark Horse Comics, after which they were released onto the Kindle Direct Market exclusively to Kindle e-stores in January 2015.
+
+The first five issues of NGL are free to download. The second five are $3.99 each or $9.99
+{'generated_text': "The adventures of Jack and John were always filled with wonder. But then, at a certain point, a certain thing happened and they got separated. They spent a year on opposite sides of the country, before a fateful trip brought them together again...\n\nThey're now a couple, after a long and successful friendship. And despite not realizing it, they've finally bonded over a shared love of adventure. There's no easy way out at the moment, and they're all set to take on every challenge - even if it means taking on the world's toughest monsters.\n\nA New World is their fifth story, which was originally developed by the acclaimed story teams of Dave, Jon, Simon Coker and Nick Cammusci of Dark Horse Comics, after which they were released onto the Kindle Direct Market exclusively to Kindle e-stores in January 2015.\n\nThe first five issues of NGL are free to download. The second five are $3.99 each or $9.99"}
+
+Process finished with exit code 0
