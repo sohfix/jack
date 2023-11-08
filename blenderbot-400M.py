@@ -15,3 +15,4 @@ response = pipe(inputy(f"[c]Welcome to the {model}, ask away: @"))
 
 # Print the generated response
 print(response)
+# h
