@@ -13,4 +13,3 @@ generated_text = pipe(prompt, max_length=100, num_return_sequences=3)
 # Print the generated text
 for output in generated_text:
     print(output["generated_text"])
-    # print(output)

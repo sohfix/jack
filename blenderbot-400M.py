@@ -1,10 +1,8 @@
 from printy import inputy
 from Blender import LoadingBar, BlenderbotPipeline, MODELS
 
-# facebook
-
 loading_bar = LoadingBar()
-model = MODELS['B'][1]
+model = MODELS['M'][400]
 
 loading_bar.start(model)
 
