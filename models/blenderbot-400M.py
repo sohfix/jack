@@ -1,26 +1,32 @@
-from printy import inputy
-from Blender import LoadingBar, BlenderbotPipeline, MODELS, CUDA
+import time
+from printy import printy
+from Blender import BlenderbotPipeline, MODELS, CUDA
+from models.mutil import ModelPrinter, ExecutionTimer, clear
 
-
-print(CUDA)
-loading_bar = LoadingBar()
+x=1
+timer, printer = ExecutionTimer(), ModelPrinter()
+timer.start()
+printy(CUDA, 'y')
 model = MODELS["M"][400]
 
-loading_bar.start(model)
 
 try:
     pipe = BlenderbotPipeline(model)
 finally:
-    loading_bar.stop()
+    _ = [print('*', end='') for i in range(45)]
+    time.sleep(1)
 
-response = pipe(
-    inputy(f"[c]Welcome to the {model}, ask away: @"),
-    max_length=100,
-    min_length=50,
-    length_penalty=2.0,
-    num_beams=6,
-)
+#clear()
 
-# Print the generated response
-print(response)
-# h
+for i in range(x):
+    response = pipe(
+        "sailing in a storm",
+        max_length=200,
+        min_length=100,
+        length_penalty=2.0,
+        num_beams=6,
+    )
+    #clear()
+    printy(f"\n{i + 1}", "y")
+    printer.print(response)
+timer.stop()
