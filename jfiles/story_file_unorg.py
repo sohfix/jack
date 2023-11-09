@@ -26,7 +26,7 @@ a legacy encapsulated in tales of camaraderie and Gatsby-esque escapades that co
 
 
 
-/home/sohfix0/Documents/models/jack_ai_pcp/venv/bin/python /home/sohfix0/Documents/models/jack_ai_pcp/test.py
+/home/sohfix0/Documents/models/jack_ai_pcp/venv/bin/python /home/sohfix0/Documents/models/jack_ai_pcp/blenderbot_1b_template.py
 facebook/blenderbot-1B-distill > from memory...
  I would love to write a letter from my grandfather. He was a ship captain in the 1860s. He used to tell me stories about the ship he used to sail on. Do you know anything about the history of shipwrecks in the 1930s and 1940s? I'd love to know more about it.    Do you have a favorite ship that you like to write about?  I'd like to learn more about them.
  That's a great idea! I'll have to try that. My favorite ship is the Royal Caribbean Cruise Line. It's the largest cruise liner in the world. I've been on it a few times and it's a lot of fun. What's your favorite ship you've sailed on? I've only been on a few, but I love them all!   What kind of ship would you write about if you had to write one?

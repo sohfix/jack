@@ -1,8 +1,8 @@
 from printy import inputy
-from Blender import LoadingBar, BlenderbotPipeline, MODELS
+from Blender import LoadingBar, BlenderbotPipeline, MODELS, CUDA
 
-# todo run
 
+print(CUDA)
 loading_bar = LoadingBar()
 model = MODELS["M"][400]
 

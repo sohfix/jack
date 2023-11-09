@@ -2,7 +2,7 @@ from transformers import (
     BlenderbotTokenizer,
     BlenderbotForConditionalGeneration,
 )
-
+import torch
 import threading
 import itertools
 import time
@@ -17,6 +17,8 @@ MODELS = {
     },
     "M": {400: "facebook/blenderbot-400M-distill"},
 }
+
+CUDA = f"CUDA avail={torch.cuda.is_available()}\nGPU={torch.cuda.get_device_name(0)}"
 
 
 class BlenderbotPipeline:
