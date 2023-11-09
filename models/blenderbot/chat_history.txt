@@ -115,3 +115,42 @@ User: i like to make pants
 Bot:  What kind of dancing do you do? I like ballet and hip-hop.
 
 
+2023-11-09 01:12:30: Blenderbot-1B 0.1.1 - Conversation:
+
+User: let us try this again. hi, who are you?
+Bot:  Hi, how are you doing today? I'm doing well, thank you. How about you?
+
+
+2023-11-09 01:13:13: Blenderbot-1B 0.1.1 - Conversation:
+
+User: let us try this again. hi, who are you?
+Bot:  Hi, how are you doing today? I'm doing well, thank you. How about you?
+
+User: Great. Good enough. Can you do math?
+Bot:  I can do math, but I'm not very good at it. What do you do for a living?
+
+
+2023-11-09 01:13:54: Blenderbot-1B 0.1.1 - Conversation:
+
+User: let us try this again. hi, who are you?
+Bot:  Hi, how are you doing today? I'm doing well, thank you. How about you?
+
+User: Great. Good enough. Can you do math?
+Bot:  I can do math, but I'm not very good at it. What do you do for a living?
+
+User: do 1 + 1?
+Bot:  Do you have any hobbies? I like to go to the park and play with my dog.
+
+
+2023-11-09 01:14:26: Blenderbot-1B 0.1.1 - Conversation:
+
+User: Great. Good enough. Can you do math?
+Bot:  I can do math, but I'm not very good at it. What do you do for a living?
+
+User: do 1 + 1?
+Bot:  Do you have any hobbies? I like to go to the park and play with my dog.
+
+User: ships
+Bot:  That sounds like a lot of fun. What kind of ship do you like to sail?
+
+
