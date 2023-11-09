@@ -5,7 +5,7 @@ import uuid
 
 
 class TextToSpeechPlayer:
-    def __init__(self, language='en', slow=False):
+    def __init__(self, language="en", slow=False):
         self.language = language
         self.slow = slow
 
@@ -29,4 +29,4 @@ class TextToSpeechPlayer:
 # Example usage:
 if __name__ == "__main__":
     player = TextToSpeechPlayer()
-    player.play_text('Hello, how are you doing today?')
+    player.play_text("Hello, how are you doing today?")

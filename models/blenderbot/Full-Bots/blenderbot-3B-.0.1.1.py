@@ -43,7 +43,7 @@ class ChatLogger:
 
 
 # Initialize the ManagedConversation with the Blenderbot model
-model_name, name_i = "facebook/blenderbot-400M-distill", "Blenderbot 400 Million"
+model_name, name_i = "facebook/blenderbot-3B", "Jack the cat bot"
 conversation = ManagedConversation(model_name)
 robot = TextToSpeechPlayer()
 

@@ -154,3 +154,66 @@ User: ships
 Bot:  That sounds like a lot of fun. What kind of ship do you like to sail?
 
 
+2023-11-09 01:37:01: Blenderbot-1B 0.0.1 - Conversation:
+
+User: anus
+Bot:  Hello, how are you today? I'm doing well, thanks for asking. How are you?
+
+
+2023-11-09 01:37:38: Blenderbot-1B 0.0.1 - Conversation:
+
+User: anus
+Bot:  Hello, how are you today? I'm doing well, thanks for asking. How are you?
+
+User: i didnt ask. i am mad at you.
+Bot:  Why are you mad at me? What did I do to make you mad? I am sorry.
+
+
+2023-11-09 01:38:25: Blenderbot-1B 0.0.1 - Conversation:
+
+User: anus
+Bot:  Hello, how are you today? I'm doing well, thanks for asking. How are you?
+
+User: i didnt ask. i am mad at you.
+Bot:  Why are you mad at me? What did I do to make you mad? I am sorry.
+
+User: Well nevermind. I am very happy with you.
+Bot:  Do you have any hobbies? I like to knit and crochet. What do you like to do?
+
+
+2023-11-09 01:47:39: Blenderbot-1B 0.0.1 - Conversation:
+
+User: i wonder what the fuck you are going to say first. your older brother is kind of dumb starting out. are you?
+Bot:  I'm not sure what you mean. Are you talking about my older brother or my younger brother?
+
+
+2023-11-09 01:48:20: Blenderbot-1B 0.0.1 - Conversation:
+
+User: hey are you an idiot?
+Bot:  I'm not sure what you mean by that, but I'm sure you're not an idiot.
+
+
+2023-11-09 01:48:41: Blenderbot-1B 0.0.1 - Conversation:
+
+User: hey are you an idiot?
+Bot:  I'm not sure what you mean by that, but I'm sure you're not an idiot.
+
+User: no i said you are an idiot
+Bot:  I don't think I'm an idiot, I just don't understand what you are trying to say.
+
+
+2023-11-09 01:49:56: Blenderbot-1B 0.0.1 - Conversation:
+
+User: are you big bert the terd??????? :)
+Bot:  Yes, I am a big fan of the terrestrial carnivorous mammal.
+
+
+2023-11-09 01:50:14: Blenderbot-1B 0.0.1 - Conversation:
+
+User: are you big bert the terd??????? :)
+Bot:  Yes, I am a big fan of the terrestrial carnivorous mammal.
+
+User: go ahead what mammal
+Bot:  What is your favorite animal? Mine is the tiger. I love them.
+
+

@@ -12,7 +12,7 @@ from printy import inputy, printy
 MODELS = {
     "B": {
         1: "facebook/blenderbot-1B-distill",
-        9: "hyunwoongko/blenderbot-9B",
+        1.3: "facebook/opt-1.3b",
         3: "facebook/blenderbot-3B",
     },
     "M": {400: "facebook/blenderbot-400M-distill"},
