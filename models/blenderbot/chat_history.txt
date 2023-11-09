@@ -1,0 +1,48 @@
+2023-11-09 00:22:58 - User: fart
+2023-11-09 00:22:58 - Model: Mock response based on:  fart
+2023-11-09 00:23:06 - User: fart
+2023-11-09 00:23:06 - Model: Mock response based on:  fart
+2023-11-09 00:23:06 - User: a
+2023-11-09 00:23:06 - Model: Mock response based on:  fart a
+2023-11-09 00:28:48 - Conversation:
+
+User: fart on my big purple tits
+Bot:  Purple is one of my favorite colors, what is your favorite shade of purple?
+
+
+2023-11-09 00:28:53 - Conversation:
+
+User: fart on my big purple tits
+Bot:  Purple is one of my favorite colors, what is your favorite shade of purple?
+
+User: 
+Bot:  I love purple, it is my favorite color. It is between violet and green on the spectrum of visible light.
+
+
+2023-11-09 00:33:23 - Conversation:
+
+User: talk about butterflies
+Bot:  Butterflies are beautiful creatures. They are insects of the order Cephalopoda.
+
+
+2023-11-09 00:33:36 - Conversation:
+
+User: talk about butterflies
+Bot:  Butterflies are beautiful creatures. They are insects of the order Cephalopoda.
+
+User: tell me more
+Bot:  Well, there are so many different species of them. There are over 600 known species.
+
+
+2023-11-09 00:34:16 - Conversation:
+
+User: talk about butterflies
+Bot:  Butterflies are beautiful creatures. They are insects of the order Cephalopoda.
+
+User: tell me more
+Bot:  Well, there are so many different species of them. There are over 600 known species.
+
+User: name one
+Bot:  What is your favorite animal? Mine is the butterfly. I love them so much.
+
+

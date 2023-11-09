@@ -5,6 +5,7 @@ import numpy as np
 from mutil import ExecutionTimer
 from printy import printy
 
+
 class BarkTextToSpeech:
     def __init__(self, model_name="suno/bark-small", use_pipeline=True):
         self.model_name = model_name
@@ -21,10 +22,14 @@ class BarkTextToSpeech:
             rate = speech["sampling_rate"]
             data = speech["audio"]
         else:
-            inputs = self.processor(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
+            inputs = self.processor(
+                text, return_tensors="pt", padding=True, truncation=True, max_length=512
+            )
             attention_mask = inputs.attention_mask
             with torch.no_grad():
-                speech_values = self.model.generate(**inputs, attention_mask=attention_mask, do_sample=do_sample)
+                speech_values = self.model.generate(
+                    **inputs, attention_mask=attention_mask, do_sample=do_sample
+                )
             rate = self.model.config.sample_rate
             data = speech_values.cpu().numpy().squeeze()
 
@@ -33,7 +38,8 @@ class BarkTextToSpeech:
         data = np.clip(data, -32768, 32767)
 
         scipy.io.wavfile.write(output_file, rate, data)
-        printy(f"Audio file saved as {output_file}", 'y')
+        printy(f"Audio file saved as {output_file}", "y")
+
 
 # todo does not work
 # Example usage

@@ -43,23 +43,3 @@ class ExecutionTimer:
             sys.stdout.write(f" ")
             sys.stdout.flush()
             time.sleep(1)
-
-
-def clear():
-    # For Windows
-    if os.name == 'nt':
-        _ = os.system('cls')
-    # For macOS and Linux (os.name: 'posix')
-    else:
-        _ = os.system('clear')
-
-
-"""# Usage
-timer = ExecutionTimer()
-timer.start()
-
-# Your program execution here
-# ...
-
-# Stop the timer and print total execution time
-timer.stop()"""

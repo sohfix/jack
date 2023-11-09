@@ -3,20 +3,20 @@ from printy import printy
 from Blender import BlenderbotPipeline, MODELS, CUDA
 from models.mutil import ModelPrinter, ExecutionTimer, clear
 
-x=1
+x = 1
 timer, printer = ExecutionTimer(), ModelPrinter()
 timer.start()
-printy(CUDA, 'y')
+printy(CUDA, "y")
 model = MODELS["M"][400]
 
 
 try:
     pipe = BlenderbotPipeline(model)
 finally:
-    _ = [print('*', end='') for i in range(45)]
+    _ = [print("*", end="") for i in range(45)]
     time.sleep(1)
 
-#clear()
+# clear()
 
 for i in range(x):
     response = pipe(
@@ -26,7 +26,7 @@ for i in range(x):
         length_penalty=2.0,
         num_beams=6,
     )
-    #clear()
+    # clear()
     printy(f"\n{i + 1}", "y")
     printer.print(response)
 timer.stop()
