@@ -11,7 +11,8 @@ from datasets import load_dataset
 
 data = "vicgalle/alpaca-gpt4"
 dataset = load_dataset(data)
-
+print(dataset.keys())
+input()
 # Load the tokenizer and model
 tokenizer = BlenderbotTokenizer.from_pretrained("facebook/blenderbot-400M-distill")
 model = BlenderbotForConditionalGeneration.from_pretrained(

@@ -60,7 +60,7 @@ class BlenderbotPipeline:
 class LoadingBar:
     def __init__(self, delay=0.1):
         self.delay = delay  # In seconds
-        self.spinner_signs = itertools.cycle(["-", "\\", "|", "/"])
+        self.spinner_signs = itertools.cycle(["--", "\\", "||", "//"])
         self.loading = False
 
     def spinner_task(self):
@@ -70,8 +70,8 @@ class LoadingBar:
             time.sleep(self.delay)
             sys.stdout.write("\b")  # erase the last written char
 
-    def start(self, model):
-        printy(f"{model} > from memory...")
+    def start(self, text='loading'):
+        printy(f"{text} > from memory...")
         self.loading = True
         threading.Thread(target=self.spinner_task).start()
 
