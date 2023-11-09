@@ -70,7 +70,7 @@ class LoadingBar:
             time.sleep(self.delay)
             sys.stdout.write("\b")  # erase the last written char
 
-    def start(self, text='loading'):
+    def start(self, text="loading"):
         printy(f"{text} > from memory...")
         self.loading = True
         threading.Thread(target=self.spinner_task).start()
