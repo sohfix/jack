@@ -1,6 +1,6 @@
 import datetime
 from transformers import BlenderbotTokenizer, BlenderbotForConditionalGeneration
-
+version = '0.1.1'
 
 class ManagedConversation:
     def __init__(self, model_name):
@@ -29,22 +29,22 @@ class ChatLogger:
     def log_conversation(conversation):
         with open("chat_history.txt", "a") as file:
             timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            entry = f"{timestamp} - Conversation:\n{conversation}\n\n"
+            entry = f"{timestamp}: Blenderbot-1B {version} - Conversation:\n{conversation}\n\n"
             file.write(entry)
 
 
 # Initialize the ManagedConversation with the Blenderbot model
-model_name = "facebook/blenderbot-400M-distill"
+model_name = "facebook/blenderbot-1B-distill"
 conversation = ManagedConversation(model_name)
 
 # Start a conversation
 while True:
-    if input('Procede? [y/N] >') == 'N':
+    if input('Proceed? [y/N] >') == 'N':
         break
     user_input = input("Enter your message: ")
     conversation.add_user_input(user_input)
     response = conversation.generate_response()
-    print("Bot:", response)
+    print(f"{model_name}:", response)
 
     # After each interaction, log the conversation
     ChatLogger.log_conversation(conversation.context)

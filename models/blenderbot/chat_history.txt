@@ -46,3 +46,72 @@ User: name one
 Bot:  What is your favorite animal? Mine is the butterfly. I love them so much.
 
 
+2023-11-09 00:56:01 - Conversation:
+
+User: galleon
+Bot:  Galleons are a type of fish, right? I've never seen one in the wild.
+
+
+2023-11-09 00:56:54 - Conversation:
+
+User: galleon
+Bot:  Galleons are a type of fish, right? I've never seen one in the wild.
+
+User: no they are ships
+Bot:  I have never seen a galleon in person, but I have seen them in the ocean.
+
+
+2023-11-09 00:57:07 - Conversation:
+
+User: galleon
+Bot:  Galleons are a type of fish, right? I've never seen one in the wild.
+
+User: no they are ships
+Bot:  I have never seen a galleon in person, but I have seen them in the ocean.
+
+User: boat
+Bot:  Do you like boats? I love boats, they are so fun to sail on.
+
+
+2023-11-09 00:57:26 - Conversation:
+
+User: galleon
+Bot:  Galleons are a type of fish, right? I've never seen one in the wild.
+
+User: no they are ships
+Bot:  I have never seen a galleon in person, but I have seen them in the ocean.
+
+User: boat
+Bot:  Do you like boats? I love boats, they are so fun to sail on.
+
+User: masterbait boat
+Bot:  What do you like to do in your spare time? I like sailing on my boat.
+
+
+2023-11-09 01:03:42 - Conversation:
+
+User: dildo pants
+Bot:  Hi, I'm a dancer and I love dancing. Do you like dancing?
+
+
+2023-11-09 01:04:13 - Conversation:
+
+User: dildo pants
+Bot:  Hi, I'm a dancer and I love dancing. Do you like dancing?
+
+User: what?
+Bot:  I like to dance, but I'm not very good at it. What do you like to do?
+
+
+2023-11-09 01:04:47 - Conversation:
+
+User: dildo pants
+Bot:  Hi, I'm a dancer and I love dancing. Do you like dancing?
+
+User: what?
+Bot:  I like to dance, but I'm not very good at it. What do you like to do?
+
+User: i like to make pants
+Bot:  What kind of dancing do you do? I like ballet and hip-hop.
+
+
